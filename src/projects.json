@@ -1,0 +1,48 @@
+[
+    {
+        "image": "https://jorxan.github.io/portfolio/images/screenshot2%20(1).png",
+        "title": "Moodia",
+        "body": "Moodia was the first collaborative project I've worked on, it was created to find movies, music, and youtube videos based on someones mood. For the project I focused on front end development, creating the home page and making the entire site mobile responsive.",
+        "url": "",
+        "id": "project1"
+
+
+    },
+    {
+        "image": "https://jorxan.github.io/portfolio/images/project2.PNG",
+        "title": "Critical Failure",
+        "body": "Critical failure was a project I worked on that was created to help people make their DnD characters in a fun way. For this project I did all front end design work.",
+        "url": "",
+        "id": "project2"
+
+    },
+    {
+        "image": "https://jorxan.github.io/portfolio/images/Capture.PNG",
+        "title": "Day Planner",
+        "body": "The purpose of the day planner assignment was to create a web application that someone would be able to use to plan their day. It takes the users input for the time slot and saves it so they can view it at a later time. It also updates based on current time , so the user can see what they have scheduled next.",
+        "url": ""
+        
+
+    },
+    {
+        "image": "https://jorxan.github.io/portfolio/images/pw-generator.PNG",
+        "title": "Password Generator",
+        "body": "This password generator site was one of our early assignments, so its very basic. But making this website taught me so much about javascript, and was one of the most satisfying assignments to complete. The purpose of the website is to allow someone to create a password based on parameters they set, like password length, and to include symbols, capital/lowecase letters, and numbers.",
+        "url": ""
+
+    },
+    {
+        "image": "",
+        "title": "",
+        "body": "",
+        "url": ""
+
+    },
+    {
+        "image": "",
+        "title": "",
+        "body": "",
+        "url": ""
+
+    }
+]
